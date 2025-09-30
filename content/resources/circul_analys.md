@@ -4,6 +4,8 @@ description: Slides for group presentation of Assignment 1.
 file: /courses/11-946j-beijing-urban-design-studio-summer-2004/a9b3de75d4e879576a9d511a5c087fd1_circul_analys.pdf
 file_size: 2109311
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
