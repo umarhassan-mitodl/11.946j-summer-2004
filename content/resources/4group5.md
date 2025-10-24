@@ -4,8 +4,6 @@ description: Slides for the final group presentation.
 file: /courses/11-946j-beijing-urban-design-studio-summer-2004/f586f97d1dd09e42d802cc9a139aa233_4group5.pdf
 file_size: 269276
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

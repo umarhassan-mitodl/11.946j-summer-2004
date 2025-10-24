@@ -4,8 +4,6 @@ description: Slides for group presentation of Assignment 3.
 file: /courses/11-946j-beijing-urban-design-studio-summer-2004/b5f5917c6637d434bfafae1d1d25ae55_3group5.pdf
 file_size: 2439283
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
